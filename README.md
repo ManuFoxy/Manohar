@@ -1,2 +1,2 @@
 # Manohar
-Testing for JS
+Testing for Java Script
